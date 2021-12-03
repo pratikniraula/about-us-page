@@ -1,0 +1,35 @@
+.aboutus-content {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+  }
+  
+  .aboutus-content .card {
+    padding: 15px;
+    font-size: 1rem;
+  }
+  
+  .aboutus-content .card p {
+      padding: 20px;
+    padding-bottom: 20px;
+    font-size: 1.2rem;
+    width: 750px;
+  }
+  
+  .aboutus-content .card img {
+    height: 445px;
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+  }
+  
+  .aboutus-content .card h1 {
+    font-size: 2rem;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    text-align: center;
+  }
